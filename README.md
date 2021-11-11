@@ -1,4 +1,4 @@
-Mostly using this to play around with the generative art. Not planning on taking this out of development it's simply a project to test my own ideas
+Mostly using this to play around with the generative art. Not planning on taking this out of development it's simply a project to test my own ideas. All you need are the different layers and it'll create them for you
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js installed.
 
